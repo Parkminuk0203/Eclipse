@@ -17,6 +17,7 @@ public class VarEx3_1 {
 		double d = 3.14; // 실수형 접미사 d 생략 가능
 		// 변수와 리터럴 타입이 일치하지 않지만 변수 doble이 리터럴 float보다 값이 커서 가능
 		
+		char ch = 'A';
 		System.out.println(power);
 		System.out.println(oct);
 		System.out.println(hex);
@@ -25,6 +26,8 @@ public class VarEx3_1 {
 		System.out.println(.10);
 		System.out.println(10f);
 		System.out.println(1e3);
+		
+		System.out.println(ch);
 	}
 
 }
