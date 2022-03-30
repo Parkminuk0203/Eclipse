@@ -13,6 +13,7 @@ public class VarEx2_1 {
 		System.out.println(y);
 		System.out.println("x="+x);
 		System.out.println("y="+y);
+		System.out.println("Hello, World");
 	}
 
 }
