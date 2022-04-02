@@ -2,15 +2,15 @@ public class Ex3_9 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a = 1_000_000; // 1,000,000 1¹é¸¸ = 10ÀÇ 6Á¦°ö
-		int b = 2_000_000; // 2,000,000 2¹é¸¸ = 10ÀÇ 6Á¦°ö
+		int a = 1_000_000; // 1,000,000 1ë°±ë§Œ = 10ì˜ 6ì œê³±
+		int b = 2_000_000; // 2,000,000 2ë°±ë§Œ = 10ì˜ 6ì œê³±
 		
-		// 10ÀÇ 12Á¦°ö. intÀÇ ¹üÀ§´Â 10ÀÇ 9Á¦°ö
+		// 10ì˜ 12ì œê³±. intì˜ ë²”ìœ„ëŠ” 10ì˜ 9ì œê³±
 		long c = a * b;
 		
 		long d = (long) a * b; 
 		
-		System.out.println(c); // -1454759936 ¿À¹öÇÃ·Î¿ì
+		System.out.println(c); // -1454759936 ì˜¤ë²„í”Œë¡œìš°
 		System.out.println(d); // 2000000000000
 	}
 
