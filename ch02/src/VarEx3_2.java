@@ -3,16 +3,16 @@ public class VarEx3_2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
+
 		char ch = 'A';
-		int i = 'A'; // ¹®ÀÚ AÀÇ ÄÚµå 65°¡ Ãâ·Â
-		
-		String str = ""; // ºó ¹®ÀÚ¿­ (Empty String)
+		int i = 'A'; // ë¬¸ì Aì˜ ì½”ë“œ 65ê°€ ì¶œë ¥
+
+		String str = ""; // ë¹ˆ ë¬¸ìì—´ (Empty String)
 		String str2 = "ABCD";
 		String str3 = "123";
 		String str4 = str2 + str3;
-		
-		
+
+
 		System.out.println(ch);
 		System.out.println(i);
 		System.out.println(str);
@@ -20,8 +20,8 @@ public class VarEx3_2 {
 		System.out.println(str4);
 		System.out.println(""+7+7);
 		System.out.println(7+7+"");
-		
-		
+
+
 	}
 
 }
