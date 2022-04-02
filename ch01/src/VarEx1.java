@@ -3,8 +3,8 @@ public class VarEx1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//print() - Ãâ·Â ÈÄ¿¡ ÁÙ¹Ù²Ş X
-		//println() - Ãâ·Â ÈÄ¿¡ ÁÙ¹Ù²Ş O
+		//print() - ì¶œë ¥ í›„ì— ì¤„ë°”ê¿ˆ X
+		//println() - ì¶œë ¥ í›„ì— ì¤„ë°”ê¿ˆ O
 		
 		System.out.println("Hello");
 		System.out.println("Hello");
@@ -14,16 +14,16 @@ public class VarEx1 {
 		System.out.print("Hello");
 		System.out.println("Hello");
 		
-		System.out.println(5+3); // µ¡¼À
-		System.out.println(5-3); // »¬¼À
-		System.out.println(5*3); // °ö¼À
-		System.out.println(5/3); // ³ª´°¼À
-		System.out.println(5/3.0); // ³ª´°¼À
+		System.out.println(5+3); // ë§ì…ˆ
+		System.out.println(5-3); // ëº„ì…ˆ
+		System.out.println(5*3); // ê³±ì…ˆ
+		System.out.println(5/3); // ë‚˜ëˆ—ì…ˆ
+		System.out.println(5/3.0); // ë‚˜ëˆ—ì…ˆ
 		
-		System.out.print(5+3); // µ¡¼À
-		System.out.print(5-3); // »¬¼À
-		System.out.print(5*3); // °ö¼À
-		System.out.print(5/3); // ³ª´°¼À
+		System.out.print(5+3); // ë§ì…ˆ
+		System.out.print(5-3); // ëº„ì…ˆ
+		System.out.print(5*3); // ê³±ì…ˆ
+		System.out.print(5/3); // ë‚˜ëˆ—ì…ˆ
 		
 	}
 
