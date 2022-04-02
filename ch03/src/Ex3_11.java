@@ -3,7 +3,7 @@ public class Ex3_11 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		long result = Math.round(4.52); // result¿¡ 5°¡ ÀúÀåµÈ´Ù
+		long result = Math.round(4.52); // resultê°€ 5ê°€ ë¨
 		
 		double pi = 3.141592;
 		
