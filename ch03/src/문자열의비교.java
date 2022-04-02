@@ -1,5 +1,4 @@
-
-public class ¹®ÀÚ¿­ÀÇºñ±³ {
+public class ë¬¸ìì—´ì˜ë¹„êµ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -13,7 +12,7 @@ public class ¹®ÀÚ¿­ÀÇºñ±³ {
 		String str4 = new String("abc");
 		
 		System.out.println(str3==str4); 
-		// false °¡ ³ª¿Â´Ù
+		// false ï¿½ï¿½ ï¿½ï¿½ï¿½Â´ï¿½
 		System.out.println(str3.equals(str4)); // true
 	}
 

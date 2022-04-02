@@ -1,17 +1,17 @@
 
-public class ´ÜÃàÅ° {
+public class ë‹¨ì¶•í‚¤ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//ctrl + shift + L ´ÜÃàÅ° ÀüÃ¼ ¸ñ·Ï º¸±â
-		//ctrl + shift + +,- ÆùÆ® Å©±â Áõ°¡,°¨¼Ò
-		//ctrl + D ÇÑ ÁÙ »èÁ¦
-		//ctrl + alt + shift + down Çà´ÜÀ§ º¹»ç
-		//alt + shift + a ¸ÖÆ¼ÄÃ·³ ÆíÁı
-		//alt + up,down Çà´ÜÀ§ ÀÌµ¿
-		//ctrl + i ÀÚµ¿ µé¿©¾²±â
-		//ctrl + / ÁÖ¼® (Åä±Û)
-		//ctrl + space ÀÚµ¿¿Ï¼º
+		//ctrl + shift + L ë‹¨ì¶•í‚¤ ì „ì²´ ëª©ë¡ ë³´ê¸°
+		//ctrl + shift + +,- í°íŠ¸ í¬ê¸° ì¦ê°€,ê°ì†Œ
+		//ctrl + D í•œ ì¤„ ì‚­ì œ
+		//ctrl + alt + shift + down í–‰ë‹¨ìœ„ ë³µì‚¬
+		//alt + shift + a ë©€í‹°ì»¬ëŸ¼ í¸ì§‘
+		//alt + up,down í–‰ë‹¨ìœ„ ì´ë™
+		//ctrl + i ìë™ ë“¤ì—¬ì“°ê¸°
+		//ctrl + / ì£¼ì„ (í† ê¸€)
+		//ctrl + space ìë™ì™„ì„±
 	}
 
 }
