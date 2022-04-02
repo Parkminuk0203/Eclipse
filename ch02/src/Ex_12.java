@@ -4,13 +4,13 @@ public class Ex_12 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String str = "3";
-		
-		System.out.println(str.charAt(0) - '0'); // ¼ıÀÚ 3
-		System.out.println('3' - '0' + 1); // 3 + 1 = ¼ıÀÚ 4
-		System.out.println(Integer.parseInt(str) + 1); // 3 + 1 = ¼ıÀÚ 4
-		System.out.println("3" + 1); // "3" + "1", ¹®ÀÚ 31
-		System.out.println(3 + '0'); // '0'Àº ¼ıÀÚ·Î 48, 3 + 48 = ¼ıÀÚ 51
-		System.out.println((char)(3 + '0')); // ¹®ÀÚ 3
+
+		System.out.println(str.charAt(0) - '0'); // ìˆ«ì 3
+		System.out.println('3' - '0' + 1); // 3 + 1 = ìˆ«ì 4
+		System.out.println(Integer.parseInt(str) + 1); // 3 + 1 = ìˆ«ì 4
+		System.out.println("3" + 1); // "3" + "1", ë¬¸ì 31
+		System.out.println(3 + '0'); // '0'ì€ ìˆ«ìë¡œ 48, 3 + 48 = ìˆ«ì 51
+		System.out.println((char)(3 + '0')); // ë¬¸ì 3
 	}
 
 }
