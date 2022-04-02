@@ -12,7 +12,8 @@ public class 문자열의비교 {
 		String str3 = new String("abc");
 		String str4 = new String("abc");
 		
-		System.out.println(str3==str4); // false가 나온다
+		System.out.println(str3==str4); 
+		// false가 나온다
 		System.out.println(str3.equals(str4)); // true
 	}
 
