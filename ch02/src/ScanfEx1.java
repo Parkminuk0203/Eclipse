@@ -1,10 +1,10 @@
-import java.util.Scanner; // import¹® Ãß°¡
+import java.util.Scanner; // importë¬¸ ì¶”ê°€
 
 public class ScanfEx1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// 2. ScannerÅ¬·¡½ºÀÇ °´Ã¼ »ı¼º
+		// 2. Scannerí´ë˜ìŠ¤ì˜ ê°ì²´ ìƒì„±
 		Scanner scanner = new Scanner(System.in);
 		
 //		int num = scanner.nextInt();
