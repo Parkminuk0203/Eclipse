@@ -12,7 +12,7 @@ public class Ex3_6 {
 		System.out.printf("%d / %d = %d%n", a, b, a / b); 
 		// int / int = int
 		// 10 / 4
-		// ¼Ò¼öÁ¡ ÀÌÇÏ´Â ¹ö·ÁÁø´Ù.
+		// ì†Œìˆ˜ì  ì´í•˜ëŠ” ë²„ë ¤ì§„ë‹¤.
 		// 2
 		System.out.printf("%d / %f = %f%n", a, (float)b, a / (float)b); 
 		// int / float = float / float 
