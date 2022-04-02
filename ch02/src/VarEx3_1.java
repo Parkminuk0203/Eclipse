@@ -4,29 +4,29 @@ public class VarEx3_1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		boolean power = true;
-		
-		byte b = 127; //byte ¹üÀ§ -128~127
-		
-		int oct = 010; // 8Áø¼ö, 10Áø¼ö·Î 8
-		int hex = 0x10; // 16Áø¼ö, 10Áø¼ö·Î 16
-		
-		int i = 2_000_000_000; // int Á¤¼ö´Â +-20¾ïÀÌ ÃÖ´ë
-		long l = 10_000_000_000L; // 20¾ïÀÌ ³Ñ´Â °ÍÀº L Á¢µÎ»ç »ç¿ë
-		
-		float f = 3.14f; // ½Ç¼öÇü Á¢¹Ì»ç f »ı·« ºÒ°¡´É
-		double d = 3.14; // ½Ç¼öÇü Á¢¹Ì»ç d »ı·« °¡´É
-		// º¯¼ö¿Í ¸®ÅÍ·² Å¸ÀÔÀÌ ÀÏÄ¡ÇÏÁö ¾ÊÁö¸¸ º¯¼ö dobleÀÌ ¸®ÅÍ·² floatº¸´Ù °ªÀÌ Ä¿¼­ °¡´É
-		
+
+		byte b = 127; //byte ë²”ìœ„ -128~127
+
+		int oct = 010; // 8ì§„ìˆ˜, 10ì§„ìˆ˜ë¡œ 8
+		int hex = 0x10; // 16ì§„ìˆ˜, 10ì§„ìˆ˜ë¡œ 16
+
+		int i = 2_000_000_000; // int ì •ìˆ˜ëŠ” +-20ì–µì´ ìµœëŒ€
+		long l = 10_000_000_000L; // 20ì–µì´ ë„˜ëŠ” ê²ƒì€ L ì ‘ë‘ì‚¬ ì‚¬ìš©
+
+		float f = 3.14f; // ì‹¤ìˆ˜í˜• ì ‘ë¯¸ì‚¬ f ìƒëµ ë¶ˆê°€ëŠ¥
+		double d = 3.14; // ì‹¤ìˆ˜í˜• ì ‘ë¯¸ì‚¬ d ìƒëµ ê°€ëŠ¥
+		// ë³€ìˆ˜ì™€ ë¦¬í„°ëŸ´ íƒ€ì…ì´ ì¼ì¹˜í•˜ì§€ ì•Šì§€ë§Œ ë³€ìˆ˜ dobleì´ ë¦¬í„°ëŸ´ floatë³´ë‹¤ ê°’ì´ ì»¤ì„œ ê°€ëŠ¥
+
 		char ch = 'A';
 		System.out.println(power);
 		System.out.println(oct);
 		System.out.println(hex);
-		
+
 		System.out.println(10.);
 		System.out.println(.10);
 		System.out.println(10f);
 		System.out.println(1e3);
-		
+
 		System.out.println(ch);
 	}
 
