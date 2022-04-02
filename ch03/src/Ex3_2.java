@@ -5,14 +5,14 @@ public class Ex3_2 {
 		// TODO Auto-generated method stub
 		int i=5, j=0;
 		
-		j= i++; // ÈÄÀ§Çü
-		System.out.println("j=i++; ½ÇÇà ÈÄ, i=" + i +", j=" + j);
+		j= i++; // í›„ìœ„í˜•
+		System.out.println("j=i++; ì‹¤í–‰ í›„, i=" + i +", j=" + j);
 		
-		i=5; // °á°ú¸¦ ºñ±³ÇÏ±â À§ÇØ, i¿Í jÀÇ °ªÀ» ´Ù½Ã 5¿Í 0À¸·Î º¯°æ
+		i=5; // ê²°ê³¼ë¥¼ ë¹„êµí•˜ê¸° ìœ„í•´, iì™€ jì˜ ê°’ì„ ë‹¤ì‹œ 5ì™€ 0ìœ¼ë¡œ ë³€ê²½
 		j=0;
 		
-		j = ++i; // ÀüÀ§Çü
-		System.out.println("j=++i; ½ÇÇà ÈÄ, i=" + i +", j=" + j);
+		j = ++i; // ì „ìœ„í˜•
+		System.out.println("j=++i; ì‹¤í–‰ í›„, i=" + i +", j=" + j);
 		
 		i = -10;
 		i = -i;
