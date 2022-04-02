@@ -12,6 +12,7 @@ public class 단축키 {
 		//ctrl + i 자동 들여쓰기
 		//ctrl + / 주석 (토글)
 		//ctrl + space 자동완성
+		
 	}
 
 }
