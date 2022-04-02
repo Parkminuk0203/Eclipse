@@ -3,7 +3,7 @@ public class Ex3_11_1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		double pi = 3.141592; // 3.141À» ¾òÀ¸·Á¸é?
+		double pi = 3.141592; // 3.141ì„ ì–»ìœ¼ë ¤ë©´?
 		
 		System.out.println(pi*1000); // 3141.592
 		System.out.println((int)(pi*1000)); // 3141
