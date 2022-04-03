@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ch4_18 {
+public class Ex4_18 {
 	public static void main(String[] args) {
 		int menu = 0;
 		int num = 0;
