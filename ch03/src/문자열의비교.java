@@ -15,6 +15,7 @@ public class 문자열의비교 {
 		System.out.println(str3==str4); // false가 나온다
 		System.out.println(str3.equals(str4)); // true
 		// 위처럼 false가 나오기 때문에 문자열 비교에는 ==대신 equals()를 사용
+		
 	}
 
 }
