@@ -42,7 +42,6 @@ public class Ex4_20 {
 					case 3:
 						System.out.println("result=" + Math.log(num));
 						break;
-						
 				} // end of switch
 			} // end of for
 		} // end of outer while
