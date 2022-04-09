@@ -13,7 +13,6 @@ public class Ex5_4 {
 			numArr[0] = numArr[n];
 			numArr[n] = tmp;
 		} //end of for
-		
 		System.out.println(Arrays.toString(numArr));
 	} //end of main
 } //end of class
