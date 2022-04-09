@@ -1,5 +1,5 @@
 
-public class Ex5_1_1 {
+public class Ex5_1_tmp_1 {
 
 	public static void main(String[] args) {
 		//inedx범위 : 0~9
