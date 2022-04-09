@@ -1,4 +1,4 @@
-class Ex5_1 {
+class Ex5_1_tmp {
 	public static void main(String[] args) {
 //		int[] socre; 		// 1.배열 score를 선언(참조변수)
 //		socre = new int[5]; // 2.배열의 생성(int 저장공간 x 5)
