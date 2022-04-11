@@ -1,5 +1,14 @@
+
 public class TEST {
+
 	public static void main(String[] args) {
-	System.out.println("예제 풀면서 응용할 테스트용 class입니다.");
-	} //end of main의            
-} //end of class
+		
+		for(int i=1;i<=5;i++) {
+			for(int j=1;j<=10;j++) {
+				System.out.printf("*");
+		}
+			System.out.println();
+		}
+		// 중첩 for문 사용
+	}
+}
