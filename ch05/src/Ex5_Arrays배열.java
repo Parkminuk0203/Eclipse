@@ -16,7 +16,7 @@ public class Ex5_Arrays배열 {
 		System.out.println(Arrays.deepEquals(str2D,str2D2)); //true.
 		
 		int[] arr2 = Arrays.copyOf(arr, arr.length);
-		System.out.println(Arrays.toString(arr2)); //[0, 1, 2, 3, 4]4
+		System.out.println(Arrays.toString(arr2)); //[0, 1, 2, 3, 4]
 		
 		int[] arr3 = Arrays.copyOfRange(arr, 2, 4);
 		System.out.println(Arrays.toString(arr3)); //[2, 3]
