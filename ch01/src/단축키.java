@@ -1,4 +1,5 @@
 
+
 public class 단축키 {
 
 	public static void main(String[] args) {
