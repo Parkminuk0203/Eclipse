@@ -1,17 +1,21 @@
 class Ex6_4 {
 	public static void main(String args[]) {
-		MyMath mm = new MyMath(); //MyMath 객체 생성.
-		mm.printGugudan(3); //구구단 3단을 출력. 10단을 출력하려고 하면 실행되지 않음.
+		MyMath mm = new MyMath(); // MyMath 객체 생성.
+		mm.printGugudan(3); // 구구단 3단을 출력. 10단을 출력하려고 하면 실행되지 않음.
 		long result = mm.max(5,3);
 		long result1 = mm.add(5L, 3L); //add메서드 호출.
 		long result2 = mm.subtract(5L, 3L);
 		long result3 = mm.multiply(5L, 3L);
 		double result4 = mm.divide(5L, 3L);
 
-		System.out.println("max(5, 3) = " + result); //max(5, 3) = 5
-		System.out.println("add(5L, 3L) = " + result1); //add(5L, 3L) = 8
-		System.out.println("subtract(5L, 3L) = " + result2); //subtract(5L, 3L) = 2
-		System.out.println("multiply(5L, 3L) = " + result3); //multiply(5L, 3L) = 15
+		System.out.println("max(5, 3) = " + result); 
+		//max(5, 3) = 5
+		System.out.println("add(5L, 3L) = " + result1); 
+		//add(5L, 3L) = 8
+		System.out.println("subtract(5L, 3L) = " + result2); 
+		//subtract(5L, 3L) = 2
+		System.out.println("multiply(5L, 3L) = " + result3); 
+		//multiply(5L, 3L) = 15
 		System.out.println("divide(5L, 3L) = " + result4); //divide(5L, 3L) = 1.6666666666666667
 	} //end of main
  } //end of class
