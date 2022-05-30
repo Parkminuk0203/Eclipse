@@ -13,7 +13,9 @@ class AudioPlayer extends Player {
 public class PlayerTest {
 
 	public static void main(String[] args) {
+//		Player p = new Player(); // 추상 클래스의 객체를 생성. 에러
 		AudioPlayer ap = new AudioPlayer();
+//		Player ap = new AudioPlayer(); // 다형성
 		ap.play(100);
 		ap.stop();
 	}
