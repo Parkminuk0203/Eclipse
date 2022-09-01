@@ -10,7 +10,6 @@ public class Ex2_3 {
 //		15
 		System.out.println(5/3);
 //		1
-
 	}
 
 }
