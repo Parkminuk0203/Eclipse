@@ -15,17 +15,24 @@ public class Ex2_9 {
 //		f3=3140.000000. 3.140000e+03, 3140.00
 		System.out.printf("d=%f%n", d);
 //		d=1.234568
-		System.out.printf("d=%14.10f%n", d); // 전체 14자리 중 소수점 10자리
+//		%f는 기본적으로 소수점 아래 6자리까지만 출력하기 때문에 소수점 아래 7자리에서 반올림한다.
+		System.out.printf("d=%14.10f%n", d);
 //		d=  1.2345678900
+//		%전체자리.소수점아래자리f
+// 		전체 14자리 중 소수점 10자리
 		System.out.printf("[12345678901234567890]%n");
 //		[12345678901234567890]
 		System.out.printf("[%s]%n", url);
 //		[www.codechobo.com]
+//		문자열의 길이만큼 출력공간을 확보
 		System.out.printf("[%20s]%n", url);
 //		[   www.codechobo.com]
-		System.out.printf("[%-20s]%n", url); // 왼쪽 정렬
+//		최소 20글자 출력공간 확보 (우측정렬)
+		System.out.printf("[%-20s]%n", url); 
 //		[www.codechobo.com   ]
-		System.out.printf("[%.8s]%n", url); // 왼쪽에서 8글자만 출력
+//		최소 20글자 출력공간 확보 (좌측정렬)
+		System.out.printf("[%.8s]%n", url);
 //		[www.code]
+//		왼쪽에서 8글자만 출력
 	}
 }
