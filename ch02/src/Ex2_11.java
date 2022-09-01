@@ -8,18 +8,22 @@ public class Ex2_11 {
 //		sMin = -32768
 		System.out.println("sMin-1 = " + (short)(sMin-1));
 //		sMin-1 = 32767
+//		최소값 - 1 -> 최대값
 		System.out.println("sMax = " + sMax);
 //		sMax = 32767
 		System.out.println("sMax+1 = " + (short)(sMax+1));
 //		sMax+1 = -32768
+//		최대값 + 1 -> 최소값
 		System.out.println("cMin = " + (int)cMin);
 //		cMin = 0
 		System.out.println("cMin-1 = " + (int)--cMin);
 //		cMin-1 = 65535
+//		최소값 - 1 -> 최대값
 		System.out.println("cMax = " + (int)cMax);
 //		cMax = 65535
 		System.out.println("cMax+1 = " + (int)++cMax);
 //		cMax+1 = 0
+//		최대값 + 1 -> 최소값
 
 	}
 
