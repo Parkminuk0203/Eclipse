@@ -17,6 +17,10 @@ public class report_3 {
 			System.out.printf("y = %d",y);
 		}
 		
+		else {
+			System.out.println("1~20 사이에 값을 입력하시오.");
+		}
+		
 	} // end of main
 
 } // end of class

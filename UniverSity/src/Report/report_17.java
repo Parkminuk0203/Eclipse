@@ -9,7 +9,7 @@ public class report_17 {
 		int j = 0;
 		int sum = 0;
 		
-		for (i=10;i<=30;i++) {
+		for (i=10;i<=10;i++) {
 			for (j=0;j<=5;j++) {
 				sum += i*j;
 			}

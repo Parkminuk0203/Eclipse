@@ -8,14 +8,12 @@ public class report_20 {
 		
 		int x = 3;
 		
-		if (x >= 0) 
-		{
-			if (x == 0) 
-			{
+		if (x >= 0) {
+			if (x == 0) {
 				System.out.println("first");
+			} else {
+				System.out.println("second");				
 			}
-		else 
-			System.out.println("second");
 		} // end of if
 		
 		System.out.println("third");		

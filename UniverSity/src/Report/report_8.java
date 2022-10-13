@@ -7,7 +7,7 @@ public class report_8 {
 		
 		int age = 66;
 		
-		if( age > 20 )
+		if( age > 20 ) 
 			if( age < 65 )
 				System.out.println("1¹ø ±×·ì");
 		else
