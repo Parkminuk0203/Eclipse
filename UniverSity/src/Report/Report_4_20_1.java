@@ -1,7 +1,7 @@
 package Report;
 import java.util.*;
 
-public class Report_4_20 {
+public class Report_4_20_1 {
 
 	public static void main(String[] args) {
 //		20. 다음과 같이 학생들의 성적을 받아서 평균을 구하는 프로그램을 작성하라.

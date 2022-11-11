@@ -1,7 +1,7 @@
 package Report;
 import java.util.*;
 
-public class Report_4_21 {
+public class Report_4_21_1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
