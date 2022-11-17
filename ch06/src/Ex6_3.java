@@ -27,6 +27,7 @@ class Ex6_3 {
 //		c1은 Heart, 7이며, 크기는 (50, 80)
 		System.out.println("c2는 " + c2.kind + ", " + c2.number + "이며, 크기는 (" + c2.width + ", " + c2.height + ")");
 //		c2는 Spade, 4이며, 크기는 (50, 80)
+		
 	} // end of main
 } // end of class
 
