@@ -38,5 +38,5 @@ class Ex6_9 {
 //		20000
 		System.out.println(mm.divide());			     
 //		2.0
-   }
+	}
 }
