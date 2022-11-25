@@ -20,7 +20,7 @@ public class Report_4_21_2 {
 				index = (c-'0');
 			}
 			if(c>='a' && c<='f') {
-				index = 10 + (c-'a')
+				index = 10 + (c-'a');
 			}
 		}
 		

@@ -1,5 +1,4 @@
 package Report;
-
 import java.util.*;
 
 public class report_bingo_1 {
@@ -16,7 +15,7 @@ public class report_bingo_1 {
 				num = rnd.nextInt(25) + 1; // 1~25의 난수 생성
 				if (freq[num] == 0) { // 만약 freq[num]이 0가 같으면
 					freq[num] = 1; // freq[num] 값을 1로 바꾸고
-					bingo[i][j] = num;
+					bingo[i][j] = num; // num에 나온 난수 값을 2차원 빙고 배열에 대입한다.
 				} else { // 아니면
 					j--; // j--를 하여 중복을 한번 더 실행
 				}
@@ -34,13 +33,5 @@ public class report_bingo_1 {
 			System.out.println("----------------");
 		} // end of for k
 
-//		for(i=0; i<bingo.length; i++) {
-//			for(j=0; j<bingo[i].length; j++) {
-//				bingo[i][j] = freq[i];
-//			}
-//		}
-//		
-
 	} // end of main
-
 } // end of class

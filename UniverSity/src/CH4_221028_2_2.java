@@ -1,5 +1,5 @@
 import java.util.*;
-public class CH4_221028_2 {
+public class CH4_221028_2_2 {
 
 	public static void main(String[] args) {
 // 사용자로부터 5명의 성적을 입력받아서 평균을 구하는 프로그램을 배열을 이용하여 작성하여 보자.
